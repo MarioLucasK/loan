@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-03-18">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Walter Maciel" label="Walter Maciel" />
+      <node id="Seguí" label="Seguí" />
+      <node id="Rulo Schijman Fernando Burlandoes" label="Rulo Schijman Fernando Burlandoes" />
+      <node id="Ramírez" label="Ramírez" />
+      <node id="Camila Gómez" label="Camila Gómez" />
+      <node id="Quejavier Mileielogió" label="Quejavier Mileielogió" />
+      <node id="Laudelina Peña" label="Laudelina Peña" />
+      <node id="Antonio Benitez" label="Antonio Benitez" />
+      <node id="Mariano De Guzmán" label="Mariano De Guzmán" />
+      <node id="Victoria Caillava" label="Victoria Caillava" />
+      <node id="Millapi" label="Millapi" />
+      <node id="Cristina Pozzer Penzo" label="Cristina Pozzer Penzo" />
+      <node id="Mónica Del Carmen Millapi" label="Mónica Del Carmen Millapi" />
+      <node id="Loan Peña" label="Loan Peña" />
+      <node id="Guillermo Barry" label="Guillermo Barry" />
+      <node id="José Nicolás Báez" label="José Nicolás Báez" />
+      <node id="Patricia Bullrich" label="Patricia Bullrich" />
+      <node id="José Peña" label="José Peña" />
+      <node id="María Victoria Caillava" label="María Victoria Caillava" />
+      <node id="Catalina" label="Catalina" />
+    </nodes>
+    <edges>
+      <edge source="Walter Maciel" target="Camila Gómez" id="0" weight="50.0" />
+      <edge source="Walter Maciel" target="Rulo Schijman Fernando Burlandoes" id="1" weight="19.0" />
+      <edge source="Walter Maciel" target="Patricia Bullrich" id="2" weight="44.0" />
+      <edge source="Walter Maciel" target="Quejavier Mileielogió" id="3" weight="15.5" />
+      <edge source="Walter Maciel" target="Seguí" id="4" weight="85.0" />
+      <edge source="Walter Maciel" target="Antonio Benitez" id="5" weight="44.5" />
+      <edge source="Walter Maciel" target="Catalina" id="6" weight="160.0" />
+      <edge source="Walter Maciel" target="Cristina Pozzer Penzo" id="7" weight="122.0" />
+      <edge source="Walter Maciel" target="Guillermo Barry" id="8" weight="56.0" />
+      <edge source="Walter Maciel" target="José Nicolás Báez" id="9" weight="76.0" />
+      <edge source="Walter Maciel" target="José Peña" id="10" weight="46.0" />
+      <edge source="Walter Maciel" target="Mariano De Guzmán" id="11" weight="63.5" />
+      <edge source="Walter Maciel" target="María Victoria Caillava" id="12" weight="121.0" />
+      <edge source="Walter Maciel" target="Millapi" id="13" weight="68.5" />
+      <edge source="Walter Maciel" target="Mónica Del Carmen Millapi" id="14" weight="76.0" />
+      <edge source="Walter Maciel" target="Ramírez" id="15" weight="99.0" />
+      <edge source="Walter Maciel" target="Laudelina Peña" id="16" weight="280.5" />
+      <edge source="Walter Maciel" target="Loan Peña" id="17" weight="167.0" />
+      <edge source="Walter Maciel" target="Victoria Caillava" id="18" weight="210.0" />
+      <edge source="Seguí" target="Camila Gómez" id="19" weight="18.5" />
+      <edge source="Seguí" target="Rulo Schijman Fernando Burlandoes" id="20" weight="13.0" />
+      <edge source="Seguí" target="Patricia Bullrich" id="21" weight="34.0" />
+      <edge source="Seguí" target="Quejavier Mileielogió" id="22" weight="18.5" />
+      <edge source="Seguí" target="Antonio Benitez" id="23" weight="106.0" />
+      <edge source="Seguí" target="Catalina" id="24" weight="64.5" />
+      <edge source="Seguí" target="Cristina Pozzer Penzo" id="25" weight="96.5" />
+      <edge source="Seguí" target="Guillermo Barry" id="26" weight="22.0" />
+      <edge source="Seguí" target="José Nicolás Báez" id="27" weight="28.0" />
+      <edge source="Seguí" target="José Peña" id="28" weight="25.0" />
+      <edge source="Seguí" target="Laudelina Peña" id="29" weight="127.5" />
+      <edge source="Seguí" target="Loan Peña" id="30" weight="311.0" />
+      <edge source="Seguí" target="Mariano De Guzmán" id="31" weight="43.0" />
+      <edge source="Seguí" target="María Victoria Caillava" id="32" weight="38.5" />
+      <edge source="Seguí" target="Millapi" id="33" weight="29.0" />
+      <edge source="Seguí" target="Mónica Del Carmen Millapi" id="34" weight="19.0" />
+      <edge source="Seguí" target="Ramírez" id="35" weight="33.5" />
+      <edge source="Seguí" target="Victoria Caillava" id="36" weight="76.5" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="Camila Gómez" id="37" weight="8.0" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="Antonio Benitez" id="38" weight="27.5" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="Catalina" id="39" weight="21.5" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="Cristina Pozzer Penzo" id="40" weight="13.0" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="Guillermo Barry" id="41" weight="3.0" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="José Nicolás Báez" id="42" weight="12.5" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="José Peña" id="43" weight="17.0" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="Laudelina Peña" id="44" weight="44.5" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="Loan Peña" id="45" weight="102.0" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="Mariano De Guzmán" id="46" weight="13.0" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="María Victoria Caillava" id="47" weight="12.5" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="Millapi" id="48" weight="6.0" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="Mónica Del Carmen Millapi" id="49" weight="5.5" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="Patricia Bullrich" id="50" weight="8.5" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="Quejavier Mileielogió" id="51" weight="4.0" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="Ramírez" id="52" weight="9.5" />
+      <edge source="Rulo Schijman Fernando Burlandoes" target="Victoria Caillava" id="53" weight="21.0" />
+      <edge source="Ramírez" target="Camila Gómez" id="54" weight="32.5" />
+      <edge source="Ramírez" target="Patricia Bullrich" id="55" weight="16.5" />
+      <edge source="Ramírez" target="Quejavier Mileielogió" id="56" weight="9.0" />
+      <edge source="Ramírez" target="Antonio Benitez" id="57" weight="22.5" />
+      <edge source="Ramírez" target="Catalina" id="58" weight="25.0" />
+      <edge source="Ramírez" target="Cristina Pozzer Penzo" id="59" weight="56.0" />
+      <edge source="Ramírez" target="Guillermo Barry" id="60" weight="31.5" />
+      <edge source="Ramírez" target="José Nicolás Báez" id="61" weight="39.5" />
+      <edge source="Ramírez" target="José Peña" id="62" weight="22.0" />
+      <edge source="Ramírez" target="Mariano De Guzmán" id="63" weight="32.5" />
+      <edge source="Ramírez" target="María Victoria Caillava" id="64" weight="56.5" />
+      <edge source="Ramírez" target="Millapi" id="65" weight="64.0" />
+      <edge source="Ramírez" target="Mónica Del Carmen Millapi" id="66" weight="49.5" />
+      <edge source="Ramírez" target="Laudelina Peña" id="67" weight="140.0" />
+      <edge source="Ramírez" target="Loan Peña" id="68" weight="256.5" />
+      <edge source="Ramírez" target="Victoria Caillava" id="69" weight="102.5" />
+      <edge source="Camila Gómez" target="Antonio Benitez" id="70" weight="11.5" />
+      <edge source="Camila Gómez" target="Cristina Pozzer Penzo" id="71" weight="23.0" />
+      <edge source="Camila Gómez" target="Patricia Bullrich" id="72" weight="12.0" />
+      <edge source="Camila Gómez" target="Quejavier Mileielogió" id="73" weight="3.0" />
+      <edge source="Camila Gómez" target="Catalina" id="74" weight="68.5" />
+      <edge source="Camila Gómez" target="Guillermo Barry" id="75" weight="9.5" />
+      <edge source="Camila Gómez" target="José Nicolás Báez" id="76" weight="34.5" />
+      <edge source="Camila Gómez" target="José Peña" id="77" weight="21.0" />
+      <edge source="Camila Gómez" target="Laudelina Peña" id="78" weight="93.0" />
+      <edge source="Camila Gómez" target="Loan Peña" id="79" weight="172.0" />
+      <edge source="Camila Gómez" target="Mariano De Guzmán" id="80" weight="20.5" />
+      <edge source="Camila Gómez" target="María Victoria Caillava" id="81" weight="33.5" />
+      <edge source="Camila Gómez" target="Millapi" id="82" weight="20.5" />
+      <edge source="Camila Gómez" target="Mónica Del Carmen Millapi" id="83" weight="28.5" />
+      <edge source="Camila Gómez" target="Victoria Caillava" id="84" weight="61.5" />
+      <edge source="Quejavier Mileielogió" target="Patricia Bullrich" id="85" weight="41.5" />
+      <edge source="Quejavier Mileielogió" target="Antonio Benitez" id="86" weight="12.5" />
+      <edge source="Quejavier Mileielogió" target="Catalina" id="87" weight="19.0" />
+      <edge source="Quejavier Mileielogió" target="Cristina Pozzer Penzo" id="88" weight="18.5" />
+      <edge source="Quejavier Mileielogió" target="Guillermo Barry" id="89" weight="2.5" />
+      <edge source="Quejavier Mileielogió" target="José Nicolás Báez" id="90" weight="6.0" />
+      <edge source="Quejavier Mileielogió" target="José Peña" id="91" weight="12.0" />
+      <edge source="Quejavier Mileielogió" target="Laudelina Peña" id="92" weight="27.0" />
+      <edge source="Quejavier Mileielogió" target="Loan Peña" id="93" weight="101.5" />
+      <edge source="Quejavier Mileielogió" target="María Victoria Caillava" id="94" weight="16.0" />
+      <edge source="Quejavier Mileielogió" target="Millapi" id="95" weight="7.0" />
+      <edge source="Quejavier Mileielogió" target="Mónica Del Carmen Millapi" id="96" weight="11.5" />
+      <edge source="Quejavier Mileielogió" target="Victoria Caillava" id="97" weight="22.0" />
+      <edge source="Laudelina Peña" target="Patricia Bullrich" id="98" weight="68.5" />
+      <edge source="Laudelina Peña" target="Antonio Benitez" id="99" weight="73.0" />
+      <edge source="Laudelina Peña" target="Catalina" id="100" weight="241.5" />
+      <edge source="Laudelina Peña" target="Cristina Pozzer Penzo" id="101" weight="192.5" />
+      <edge source="Laudelina Peña" target="Guillermo Barry" id="102" weight="56.5" />
+      <edge source="Laudelina Peña" target="José Nicolás Báez" id="103" weight="106.0" />
+      <edge source="Laudelina Peña" target="José Peña" id="104" weight="85.0" />
+      <edge source="Laudelina Peña" target="Mariano De Guzmán" id="105" weight="113.5" />
+      <edge source="Laudelina Peña" target="María Victoria Caillava" id="106" weight="169.5" />
+      <edge source="Laudelina Peña" target="Millapi" id="107" weight="96.0" />
+      <edge source="Laudelina Peña" target="Mónica Del Carmen Millapi" id="108" weight="106.5" />
+      <edge source="Laudelina Peña" target="Loan Peña" id="109" weight="622.0" />
+      <edge source="Laudelina Peña" target="Victoria Caillava" id="110" weight="256.5" />
+      <edge source="Antonio Benitez" target="Patricia Bullrich" id="111" weight="49.0" />
+      <edge source="Antonio Benitez" target="Catalina" id="112" weight="39.0" />
+      <edge source="Antonio Benitez" target="Cristina Pozzer Penzo" id="113" weight="146.5" />
+      <edge source="Antonio Benitez" target="Guillermo Barry" id="114" weight="16.0" />
+      <edge source="Antonio Benitez" target="José Nicolás Báez" id="115" weight="13.5" />
+      <edge source="Antonio Benitez" target="José Peña" id="116" weight="14.0" />
+      <edge source="Antonio Benitez" target="Loan Peña" id="117" weight="648.0" />
+      <edge source="Antonio Benitez" target="Mariano De Guzmán" id="118" weight="14.5" />
+      <edge source="Antonio Benitez" target="María Victoria Caillava" id="119" weight="40.0" />
+      <edge source="Antonio Benitez" target="Millapi" id="120" weight="14.5" />
+      <edge source="Antonio Benitez" target="Mónica Del Carmen Millapi" id="121" weight="45.0" />
+      <edge source="Antonio Benitez" target="Victoria Caillava" id="122" weight="320.5" />
+      <edge source="Mariano De Guzmán" target="Patricia Bullrich" id="123" weight="25.0" />
+      <edge source="Mariano De Guzmán" target="Catalina" id="124" weight="10.5" />
+      <edge source="Mariano De Guzmán" target="Cristina Pozzer Penzo" id="125" weight="73.5" />
+      <edge source="Mariano De Guzmán" target="Guillermo Barry" id="126" weight="17.0" />
+      <edge source="Mariano De Guzmán" target="José Nicolás Báez" id="127" weight="24.0" />
+      <edge source="Mariano De Guzmán" target="José Peña" id="128" weight="18.5" />
+      <edge source="Mariano De Guzmán" target="Loan Peña" id="129" weight="196.0" />
+      <edge source="Mariano De Guzmán" target="María Victoria Caillava" id="130" weight="37.5" />
+      <edge source="Mariano De Guzmán" target="Millapi" id="131" weight="25.0" />
+      <edge source="Mariano De Guzmán" target="Mónica Del Carmen Millapi" id="132" weight="20.5" />
+      <edge source="Mariano De Guzmán" target="Victoria Caillava" id="133" weight="67.0" />
+      <edge source="Victoria Caillava" target="Patricia Bullrich" id="134" weight="46.0" />
+      <edge source="Victoria Caillava" target="Catalina" id="135" weight="185.5" />
+      <edge source="Victoria Caillava" target="Cristina Pozzer Penzo" id="136" weight="119.5" />
+      <edge source="Victoria Caillava" target="Guillermo Barry" id="137" weight="34.5" />
+      <edge source="Victoria Caillava" target="José Nicolás Báez" id="138" weight="79.0" />
+      <edge source="Victoria Caillava" target="José Peña" id="139" weight="45.5" />
+      <edge source="Victoria Caillava" target="María Victoria Caillava" id="140" weight="125.0" />
+      <edge source="Victoria Caillava" target="Millapi" id="141" weight="66.0" />
+      <edge source="Victoria Caillava" target="Mónica Del Carmen Millapi" id="142" weight="73.5" />
+      <edge source="Victoria Caillava" target="Loan Peña" id="143" weight="153.5" />
+      <edge source="Millapi" target="Patricia Bullrich" id="144" weight="10.0" />
+      <edge source="Millapi" target="Catalina" id="145" weight="20.0" />
+      <edge source="Millapi" target="Cristina Pozzer Penzo" id="146" weight="40.0" />
+      <edge source="Millapi" target="Guillermo Barry" id="147" weight="25.0" />
+      <edge source="Millapi" target="José Nicolás Báez" id="148" weight="22.5" />
+      <edge source="Millapi" target="José Peña" id="149" weight="16.5" />
+      <edge source="Millapi" target="María Victoria Caillava" id="150" weight="36.5" />
+      <edge source="Millapi" target="Loan Peña" id="151" weight="173.5" />
+      <edge source="Millapi" target="Mónica Del Carmen Millapi" id="152" weight="33.0" />
+      <edge source="Cristina Pozzer Penzo" target="Patricia Bullrich" id="153" weight="28.0" />
+      <edge source="Cristina Pozzer Penzo" target="Catalina" id="154" weight="97.5" />
+      <edge source="Cristina Pozzer Penzo" target="Guillermo Barry" id="155" weight="21.0" />
+      <edge source="Cristina Pozzer Penzo" target="José Nicolás Báez" id="156" weight="35.0" />
+      <edge source="Cristina Pozzer Penzo" target="José Peña" id="157" weight="27.0" />
+      <edge source="Cristina Pozzer Penzo" target="Loan Peña" id="158" weight="391.0" />
+      <edge source="Cristina Pozzer Penzo" target="María Victoria Caillava" id="159" weight="73.5" />
+      <edge source="Cristina Pozzer Penzo" target="Mónica Del Carmen Millapi" id="160" weight="37.5" />
+      <edge source="Mónica Del Carmen Millapi" target="Patricia Bullrich" id="161" weight="10.5" />
+      <edge source="Mónica Del Carmen Millapi" target="Catalina" id="162" weight="28.5" />
+      <edge source="Mónica Del Carmen Millapi" target="Guillermo Barry" id="163" weight="19.5" />
+      <edge source="Mónica Del Carmen Millapi" target="José Nicolás Báez" id="164" weight="25.0" />
+      <edge source="Mónica Del Carmen Millapi" target="José Peña" id="165" weight="21.5" />
+      <edge source="Mónica Del Carmen Millapi" target="María Victoria Caillava" id="166" weight="58.5" />
+      <edge source="Mónica Del Carmen Millapi" target="Loan Peña" id="167" weight="229.5" />
+      <edge source="Loan Peña" target="Patricia Bullrich" id="168" weight="186.0" />
+      <edge source="Loan Peña" target="Catalina" id="169" weight="497.0" />
+      <edge source="Loan Peña" target="Guillermo Barry" id="170" weight="166.0" />
+      <edge source="Loan Peña" target="José Nicolás Báez" id="171" weight="259.5" />
+      <edge source="Loan Peña" target="José Peña" id="172" weight="208.0" />
+      <edge source="Loan Peña" target="María Victoria Caillava" id="173" weight="337.5" />
+      <edge source="Guillermo Barry" target="Patricia Bullrich" id="174" weight="22.0" />
+      <edge source="Guillermo Barry" target="Catalina" id="175" weight="8.5" />
+      <edge source="Guillermo Barry" target="José Peña" id="176" weight="10.0" />
+      <edge source="Guillermo Barry" target="José Nicolás Báez" id="177" weight="21.0" />
+      <edge source="Guillermo Barry" target="María Victoria Caillava" id="178" weight="24.5" />
+      <edge source="José Nicolás Báez" target="Patricia Bullrich" id="179" weight="14.5" />
+      <edge source="José Nicolás Báez" target="Catalina" id="180" weight="80.5" />
+      <edge source="José Nicolás Báez" target="José Peña" id="181" weight="36.5" />
+      <edge source="José Nicolás Báez" target="María Victoria Caillava" id="182" weight="42.5" />
+      <edge source="Patricia Bullrich" target="Catalina" id="183" weight="40.0" />
+      <edge source="Patricia Bullrich" target="José Peña" id="184" weight="19.0" />
+      <edge source="Patricia Bullrich" target="María Victoria Caillava" id="185" weight="24.5" />
+      <edge source="José Peña" target="Catalina" id="186" weight="56.0" />
+      <edge source="José Peña" target="María Victoria Caillava" id="187" weight="32.5" />
+      <edge source="María Victoria Caillava" target="Catalina" id="188" weight="33.5" />
+    </edges>
+  </graph>
+</gexf>

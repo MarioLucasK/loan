@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-03-18">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Walter Maciel" label="Walter Maciel" />
+      <node id="Seguí" label="Seguí" />
+      <node id="Ramírez" label="Ramírez" />
+      <node id="Méndez" label="Méndez" />
+      <node id="Laudelina Peña" label="Laudelina Peña" />
+      <node id="Antonio Benitez" label="Antonio Benitez" />
+      <node id="Mariano De Guzmán" label="Mariano De Guzmán" />
+      <node id="Victoria Caillava" label="Victoria Caillava" />
+      <node id="Millapi" label="Millapi" />
+      <node id="Cristina Pozzer Penzo" label="Cristina Pozzer Penzo" />
+      <node id="Macarena Peña" label="Macarena Peña" />
+      <node id="Ana María Sánchez" label="Ana María Sánchez" />
+      <node id="Marcelo Colombo" label="Marcelo Colombo" />
+      <node id="Loan Peña" label="Loan Peña" />
+      <node id="José Nicolás Báez" label="José Nicolás Báez" />
+      <node id="María Noguera" label="María Noguera" />
+      <node id="María Victoria Caillava" label="María Victoria Caillava" />
+      <node id="Mónica Millapi" label="Mónica Millapi" />
+      <node id="Fernández Codazzi" label="Fernández Codazzi" />
+      <node id="Catalina" label="Catalina" />
+    </nodes>
+    <edges>
+      <edge source="Walter Maciel" target="Macarena Peña" id="0" weight="6.0" />
+      <edge source="Walter Maciel" target="Ana María Sánchez" id="1" weight="1.0" />
+      <edge source="Walter Maciel" target="Antonio Benitez" id="2" weight="1.0" />
+      <edge source="Walter Maciel" target="Laudelina Peña" id="3" weight="2.5" />
+      <edge source="Walter Maciel" target="Loan Peña" id="4" weight="1.0" />
+      <edge source="Walter Maciel" target="María Noguera" id="5" weight="4.0" />
+      <edge source="Walter Maciel" target="Mónica Millapi" id="6" weight="8.0" />
+      <edge source="Walter Maciel" target="Victoria Caillava" id="7" weight="6.0" />
+      <edge source="Seguí" target="Méndez" id="8" weight="3.0" />
+      <edge source="Seguí" target="Macarena Peña" id="9" weight="4.5" />
+      <edge source="Seguí" target="José Nicolás Báez" id="10" weight="1.0" />
+      <edge source="Seguí" target="Antonio Benitez" id="11" weight="5.5" />
+      <edge source="Seguí" target="Laudelina Peña" id="12" weight="6.5" />
+      <edge source="Seguí" target="Loan Peña" id="13" weight="9.0" />
+      <edge source="Seguí" target="María Noguera" id="14" weight="1.0" />
+      <edge source="Seguí" target="María Victoria Caillava" id="15" weight="1.0" />
+      <edge source="Seguí" target="Mónica Millapi" id="16" weight="4.0" />
+      <edge source="Ramírez" target="Méndez" id="17" weight="1.0" />
+      <edge source="Ramírez" target="Macarena Peña" id="18" weight="4.5" />
+      <edge source="Ramírez" target="Antonio Benitez" id="19" weight="1.0" />
+      <edge source="Ramírez" target="Cristina Pozzer Penzo" id="20" weight="1.5" />
+      <edge source="Ramírez" target="Loan Peña" id="21" weight="4.5" />
+      <edge source="Ramírez" target="Mónica Millapi" id="22" weight="3.0" />
+      <edge source="Méndez" target="Ana María Sánchez" id="23" weight="10.0" />
+      <edge source="Méndez" target="Antonio Benitez" id="24" weight="12.0" />
+      <edge source="Méndez" target="Catalina" id="25" weight="18.0" />
+      <edge source="Méndez" target="Cristina Pozzer Penzo" id="26" weight="3.0" />
+      <edge source="Méndez" target="Fernández Codazzi" id="27" weight="10.5" />
+      <edge source="Méndez" target="Laudelina Peña" id="28" weight="7.5" />
+      <edge source="Méndez" target="Loan Peña" id="29" weight="4.5" />
+      <edge source="Méndez" target="Macarena Peña" id="30" weight="2.5" />
+      <edge source="Méndez" target="Marcelo Colombo" id="31" weight="5.5" />
+      <edge source="Méndez" target="Mariano De Guzmán" id="32" weight="4.0" />
+      <edge source="Méndez" target="María Noguera" id="33" weight="3.5" />
+      <edge source="Méndez" target="María Victoria Caillava" id="34" weight="3.5" />
+      <edge source="Méndez" target="Millapi" id="35" weight="1.0" />
+      <edge source="Méndez" target="Mónica Millapi" id="36" weight="3.5" />
+      <edge source="Méndez" target="Victoria Caillava" id="37" weight="6.5" />
+      <edge source="Laudelina Peña" target="Macarena Peña" id="38" weight="6.5" />
+      <edge source="Laudelina Peña" target="Fernández Codazzi" id="39" weight="2.0" />
+      <edge source="Laudelina Peña" target="Marcelo Colombo" id="40" weight="2.5" />
+      <edge source="Laudelina Peña" target="Ana María Sánchez" id="41" weight="2.5" />
+      <edge source="Laudelina Peña" target="Catalina" id="42" weight="8.0" />
+      <edge source="Laudelina Peña" target="José Nicolás Báez" id="43" weight="3.0" />
+      <edge source="Laudelina Peña" target="Antonio Benitez" id="44" weight="4.0" />
+      <edge source="Laudelina Peña" target="Cristina Pozzer Penzo" id="45" weight="3.0" />
+      <edge source="Laudelina Peña" target="Loan Peña" id="46" weight="13.0" />
+      <edge source="Laudelina Peña" target="Mariano De Guzmán" id="47" weight="3.0" />
+      <edge source="Laudelina Peña" target="María Noguera" id="48" weight="6.5" />
+      <edge source="Laudelina Peña" target="María Victoria Caillava" id="49" weight="3.0" />
+      <edge source="Laudelina Peña" target="Millapi" id="50" weight="5.5" />
+      <edge source="Laudelina Peña" target="Mónica Millapi" id="51" weight="2.5" />
+      <edge source="Laudelina Peña" target="Victoria Caillava" id="52" weight="7.0" />
+      <edge source="Antonio Benitez" target="Macarena Peña" id="53" weight="9.5" />
+      <edge source="Antonio Benitez" target="Fernández Codazzi" id="54" weight="8.0" />
+      <edge source="Antonio Benitez" target="Marcelo Colombo" id="55" weight="1.0" />
+      <edge source="Antonio Benitez" target="Ana María Sánchez" id="56" weight="2.0" />
+      <edge source="Antonio Benitez" target="Catalina" id="57" weight="2.0" />
+      <edge source="Antonio Benitez" target="José Nicolás Báez" id="58" weight="1.5" />
+      <edge source="Antonio Benitez" target="Cristina Pozzer Penzo" id="59" weight="6.0" />
+      <edge source="Antonio Benitez" target="Loan Peña" id="60" weight="7.0" />
+      <edge source="Antonio Benitez" target="María Noguera" id="61" weight="3.0" />
+      <edge source="Antonio Benitez" target="María Victoria Caillava" id="62" weight="3.0" />
+      <edge source="Antonio Benitez" target="Mónica Millapi" id="63" weight="1.0" />
+      <edge source="Antonio Benitez" target="Victoria Caillava" id="64" weight="5.0" />
+      <edge source="Mariano De Guzmán" target="Macarena Peña" id="65" weight="1.0" />
+      <edge source="Mariano De Guzmán" target="Loan Peña" id="66" weight="2.0" />
+      <edge source="Mariano De Guzmán" target="María Noguera" id="67" weight="3.0" />
+      <edge source="Mariano De Guzmán" target="Mónica Millapi" id="68" weight="1.0" />
+      <edge source="Mariano De Guzmán" target="Victoria Caillava" id="69" weight="1.0" />
+      <edge source="Victoria Caillava" target="Macarena Peña" id="70" weight="10.0" />
+      <edge source="Victoria Caillava" target="Fernández Codazzi" id="71" weight="4.5" />
+      <edge source="Victoria Caillava" target="Marcelo Colombo" id="72" weight="1.0" />
+      <edge source="Victoria Caillava" target="Ana María Sánchez" id="73" weight="1.5" />
+      <edge source="Victoria Caillava" target="Catalina" id="74" weight="1.0" />
+      <edge source="Victoria Caillava" target="Cristina Pozzer Penzo" id="75" weight="4.0" />
+      <edge source="Victoria Caillava" target="Loan Peña" id="76" weight="2.0" />
+      <edge source="Victoria Caillava" target="María Noguera" id="77" weight="3.0" />
+      <edge source="Victoria Caillava" target="María Victoria Caillava" id="78" weight="3.5" />
+      <edge source="Victoria Caillava" target="Mónica Millapi" id="79" weight="2.0" />
+      <edge source="Millapi" target="Macarena Peña" id="80" weight="5.0" />
+      <edge source="Millapi" target="Fernández Codazzi" id="81" weight="3.5" />
+      <edge source="Millapi" target="Catalina" id="82" weight="1.0" />
+      <edge source="Millapi" target="José Nicolás Báez" id="83" weight="1.0" />
+      <edge source="Millapi" target="Cristina Pozzer Penzo" id="84" weight="2.0" />
+      <edge source="Millapi" target="Loan Peña" id="85" weight="4.0" />
+      <edge source="Millapi" target="María Noguera" id="86" weight="1.5" />
+      <edge source="Millapi" target="Mónica Millapi" id="87" weight="3.5" />
+      <edge source="Cristina Pozzer Penzo" target="Macarena Peña" id="88" weight="4.0" />
+      <edge source="Cristina Pozzer Penzo" target="Fernández Codazzi" id="89" weight="2.5" />
+      <edge source="Cristina Pozzer Penzo" target="Catalina" id="90" weight="3.0" />
+      <edge source="Cristina Pozzer Penzo" target="José Nicolás Báez" id="91" weight="2.5" />
+      <edge source="Cristina Pozzer Penzo" target="Loan Peña" id="92" weight="9.0" />
+      <edge source="Cristina Pozzer Penzo" target="María Noguera" id="93" weight="2.5" />
+      <edge source="Cristina Pozzer Penzo" target="María Victoria Caillava" id="94" weight="7.5" />
+      <edge source="Cristina Pozzer Penzo" target="Mónica Millapi" id="95" weight="1.5" />
+      <edge source="Macarena Peña" target="Ana María Sánchez" id="96" weight="1.0" />
+      <edge source="Macarena Peña" target="Catalina" id="97" weight="3.0" />
+      <edge source="Macarena Peña" target="Fernández Codazzi" id="98" weight="5.0" />
+      <edge source="Macarena Peña" target="José Nicolás Báez" id="99" weight="2.5" />
+      <edge source="Macarena Peña" target="Loan Peña" id="100" weight="15.0" />
+      <edge source="Macarena Peña" target="Marcelo Colombo" id="101" weight="1.0" />
+      <edge source="Macarena Peña" target="María Noguera" id="102" weight="4.5" />
+      <edge source="Macarena Peña" target="María Victoria Caillava" id="103" weight="1.0" />
+      <edge source="Macarena Peña" target="Mónica Millapi" id="104" weight="1.0" />
+      <edge source="Ana María Sánchez" target="Fernández Codazzi" id="105" weight="5.5" />
+      <edge source="Ana María Sánchez" target="Marcelo Colombo" id="106" weight="4.0" />
+      <edge source="Ana María Sánchez" target="Catalina" id="107" weight="3.0" />
+      <edge source="Ana María Sánchez" target="José Nicolás Báez" id="108" weight="2.5" />
+      <edge source="Ana María Sánchez" target="Loan Peña" id="109" weight="5.5" />
+      <edge source="Marcelo Colombo" target="Fernández Codazzi" id="110" weight="1.0" />
+      <edge source="Marcelo Colombo" target="Catalina" id="111" weight="6.0" />
+      <edge source="Marcelo Colombo" target="José Nicolás Báez" id="112" weight="1.0" />
+      <edge source="Marcelo Colombo" target="Loan Peña" id="113" weight="2.0" />
+      <edge source="Marcelo Colombo" target="María Noguera" id="114" weight="2.0" />
+      <edge source="Marcelo Colombo" target="María Victoria Caillava" id="115" weight="1.0" />
+      <edge source="Loan Peña" target="Fernández Codazzi" id="116" weight="13.5" />
+      <edge source="Loan Peña" target="Catalina" id="117" weight="8.5" />
+      <edge source="Loan Peña" target="José Nicolás Báez" id="118" weight="5.5" />
+      <edge source="Loan Peña" target="María Noguera" id="119" weight="17.5" />
+      <edge source="Loan Peña" target="María Victoria Caillava" id="120" weight="5.5" />
+      <edge source="Loan Peña" target="Mónica Millapi" id="121" weight="7.5" />
+      <edge source="José Nicolás Báez" target="Catalina" id="122" weight="1.0" />
+      <edge source="José Nicolás Báez" target="Mónica Millapi" id="123" weight="1.0" />
+      <edge source="María Noguera" target="Fernández Codazzi" id="124" weight="1.5" />
+      <edge source="María Noguera" target="Catalina" id="125" weight="1.5" />
+      <edge source="María Noguera" target="María Victoria Caillava" id="126" weight="1.0" />
+      <edge source="María Victoria Caillava" target="Fernández Codazzi" id="127" weight="2.0" />
+      <edge source="María Victoria Caillava" target="Mónica Millapi" id="128" weight="1.5" />
+      <edge source="Mónica Millapi" target="Fernández Codazzi" id="129" weight="1.5" />
+      <edge source="Mónica Millapi" target="Catalina" id="130" weight="1.5" />
+      <edge source="Fernández Codazzi" target="Catalina" id="131" weight="2.5" />
+    </edges>
+  </graph>
+</gexf>

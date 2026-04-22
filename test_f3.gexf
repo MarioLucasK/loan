@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-03-17">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Gertrudis Gómez de Avellaneda" label="Gertrudis Gómez de Avellaneda" />
+      <node id="Alexander Serov" label="Alexander Serov" />
+      <node id="Adalberto Ortiz" label="Adalberto Ortiz" />
+      <node id="Juan Manuel Iglesias" label="Juan Manuel Iglesias" />
+      <node id="Miguel Miramón" label="Miguel Miramón" />
+      <node id="Danilo Peñaretomó" label="Danilo Peñaretomó" />
+      <node id="Mariano Peña" label="Mariano Peña" />
+      <node id="Juan Pablo II de Ceres" label="Juan Pablo II de Ceres" />
+      <node id="Alfonso Peña Boeuf" label="Alfonso Peña Boeuf" />
+      <node id="A. K. Hangal" label="A. K. Hangal" />
+      <node id="Alejandro Galindo" label="Alejandro Galindo" />
+      <node id="Tomoka Kuwazoe" label="Tomoka Kuwazoe" />
+      <node id="Loan Peña" label="Loan Peña" />
+      <node id="Alejandro VIII" label="Alejandro VIII" />
+      <node id="Alessandro Blasetti" label="Alessandro Blasetti" />
+      <node id="Gastón Taylor Producción" label="Gastón Taylor Producción" />
+      <node id="Verónica Di Tommasso" label="Verónica Di Tommasso" />
+      <node id="Adel al Jubeir" label="Adel al Jubeir" />
+      <node id="Everardo VI de Wurtemberg" label="Everardo VI de Wurtemberg" />
+      <node id="Ahmad Nourollahi" label="Ahmad Nourollahi" />
+    </nodes>
+    <edges>
+      <edge source="Gertrudis Gómez de Avellaneda" target="A. K. Hangal" id="0" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Adel al Jubeir" id="1" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Ahmad Nourollahi" id="2" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Alejandro VIII" id="3" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Alexander Serov" id="4" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Danilo Peñaretomó" id="5" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Everardo VI de Wurtemberg" id="6" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Gastón Taylor Producción" id="7" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Adalberto Ortiz" id="8" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Alejandro Galindo" id="9" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Alessandro Blasetti" id="10" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Alfonso Peña Boeuf" id="11" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Juan Manuel Iglesias" id="12" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Juan Pablo II de Ceres" id="13" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Mariano Peña" id="14" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Miguel Miramón" id="15" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Tomoka Kuwazoe" id="16" weight="1.0" />
+      <edge source="Gertrudis Gómez de Avellaneda" target="Verónica Di Tommasso" id="17" weight="1.0" />
+      <edge source="Alexander Serov" target="A. K. Hangal" id="18" weight="1.0" />
+      <edge source="Alexander Serov" target="Adel al Jubeir" id="19" weight="1.0" />
+      <edge source="Alexander Serov" target="Ahmad Nourollahi" id="20" weight="1.0" />
+      <edge source="Alexander Serov" target="Alejandro VIII" id="21" weight="1.0" />
+      <edge source="Alexander Serov" target="Adalberto Ortiz" id="22" weight="1.0" />
+      <edge source="Alexander Serov" target="Alejandro Galindo" id="23" weight="1.0" />
+      <edge source="Alexander Serov" target="Alessandro Blasetti" id="24" weight="1.0" />
+      <edge source="Alexander Serov" target="Alfonso Peña Boeuf" id="25" weight="1.0" />
+      <edge source="Alexander Serov" target="Danilo Peñaretomó" id="26" weight="1.0" />
+      <edge source="Alexander Serov" target="Everardo VI de Wurtemberg" id="27" weight="1.0" />
+      <edge source="Alexander Serov" target="Gastón Taylor Producción" id="28" weight="1.0" />
+      <edge source="Alexander Serov" target="Juan Manuel Iglesias" id="29" weight="1.0" />
+      <edge source="Alexander Serov" target="Juan Pablo II de Ceres" id="30" weight="1.5" />
+      <edge source="Alexander Serov" target="Mariano Peña" id="31" weight="1.0" />
+      <edge source="Alexander Serov" target="Miguel Miramón" id="32" weight="1.5" />
+      <edge source="Alexander Serov" target="Tomoka Kuwazoe" id="33" weight="1.0" />
+      <edge source="Alexander Serov" target="Verónica Di Tommasso" id="34" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="A. K. Hangal" id="35" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="Adel al Jubeir" id="36" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="Ahmad Nourollahi" id="37" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="Alejandro Galindo" id="38" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="Alejandro VIII" id="39" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="Alessandro Blasetti" id="40" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="Alfonso Peña Boeuf" id="41" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="Danilo Peñaretomó" id="42" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="Everardo VI de Wurtemberg" id="43" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="Gastón Taylor Producción" id="44" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="Juan Manuel Iglesias" id="45" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="Juan Pablo II de Ceres" id="46" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="Mariano Peña" id="47" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="Miguel Miramón" id="48" weight="1.5" />
+      <edge source="Adalberto Ortiz" target="Tomoka Kuwazoe" id="49" weight="1.0" />
+      <edge source="Adalberto Ortiz" target="Verónica Di Tommasso" id="50" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="Danilo Peñaretomó" id="51" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="Gastón Taylor Producción" id="52" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="A. K. Hangal" id="53" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="Adel al Jubeir" id="54" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="Ahmad Nourollahi" id="55" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="Alejandro Galindo" id="56" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="Alejandro VIII" id="57" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="Alessandro Blasetti" id="58" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="Alfonso Peña Boeuf" id="59" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="Everardo VI de Wurtemberg" id="60" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="Mariano Peña" id="61" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="Miguel Miramón" id="62" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="Tomoka Kuwazoe" id="63" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="Juan Pablo II de Ceres" id="64" weight="1.0" />
+      <edge source="Juan Manuel Iglesias" target="Loan Peña" id="65" weight="3.5" />
+      <edge source="Juan Manuel Iglesias" target="Verónica Di Tommasso" id="66" weight="1.0" />
+      <edge source="Miguel Miramón" target="Danilo Peñaretomó" id="67" weight="2.5" />
+      <edge source="Miguel Miramón" target="Gastón Taylor Producción" id="68" weight="1.0" />
+      <edge source="Miguel Miramón" target="Juan Pablo II de Ceres" id="69" weight="7.0" />
+      <edge source="Miguel Miramón" target="A. K. Hangal" id="70" weight="1.0" />
+      <edge source="Miguel Miramón" target="Adel al Jubeir" id="71" weight="1.0" />
+      <edge source="Miguel Miramón" target="Ahmad Nourollahi" id="72" weight="1.0" />
+      <edge source="Miguel Miramón" target="Alejandro Galindo" id="73" weight="1.0" />
+      <edge source="Miguel Miramón" target="Alejandro VIII" id="74" weight="1.0" />
+      <edge source="Miguel Miramón" target="Alessandro Blasetti" id="75" weight="1.0" />
+      <edge source="Miguel Miramón" target="Alfonso Peña Boeuf" id="76" weight="1.0" />
+      <edge source="Miguel Miramón" target="Everardo VI de Wurtemberg" id="77" weight="1.5" />
+      <edge source="Miguel Miramón" target="Mariano Peña" id="78" weight="1.5" />
+      <edge source="Miguel Miramón" target="Tomoka Kuwazoe" id="79" weight="1.0" />
+      <edge source="Miguel Miramón" target="Verónica Di Tommasso" id="80" weight="1.0" />
+      <edge source="Danilo Peñaretomó" target="A. K. Hangal" id="81" weight="1.0" />
+      <edge source="Danilo Peñaretomó" target="Adel al Jubeir" id="82" weight="1.0" />
+      <edge source="Danilo Peñaretomó" target="Ahmad Nourollahi" id="83" weight="1.0" />
+      <edge source="Danilo Peñaretomó" target="Alejandro Galindo" id="84" weight="1.0" />
+      <edge source="Danilo Peñaretomó" target="Alejandro VIII" id="85" weight="1.0" />
+      <edge source="Danilo Peñaretomó" target="Alessandro Blasetti" id="86" weight="1.0" />
+      <edge source="Danilo Peñaretomó" target="Alfonso Peña Boeuf" id="87" weight="1.0" />
+      <edge source="Danilo Peñaretomó" target="Everardo VI de Wurtemberg" id="88" weight="1.0" />
+      <edge source="Danilo Peñaretomó" target="Gastón Taylor Producción" id="89" weight="1.0" />
+      <edge source="Danilo Peñaretomó" target="Mariano Peña" id="90" weight="1.0" />
+      <edge source="Danilo Peñaretomó" target="Tomoka Kuwazoe" id="91" weight="1.0" />
+      <edge source="Danilo Peñaretomó" target="Verónica Di Tommasso" id="92" weight="1.0" />
+      <edge source="Danilo Peñaretomó" target="Juan Pablo II de Ceres" id="93" weight="1.0" />
+      <edge source="Danilo Peñaretomó" target="Loan Peña" id="94" weight="3.5" />
+      <edge source="Mariano Peña" target="A. K. Hangal" id="95" weight="1.0" />
+      <edge source="Mariano Peña" target="Everardo VI de Wurtemberg" id="96" weight="1.0" />
+      <edge source="Mariano Peña" target="Gastón Taylor Producción" id="97" weight="1.0" />
+      <edge source="Mariano Peña" target="Juan Pablo II de Ceres" id="98" weight="1.0" />
+      <edge source="Mariano Peña" target="Loan Peña" id="99" weight="1.0" />
+      <edge source="Mariano Peña" target="Adel al Jubeir" id="100" weight="1.0" />
+      <edge source="Mariano Peña" target="Ahmad Nourollahi" id="101" weight="1.0" />
+      <edge source="Mariano Peña" target="Alejandro Galindo" id="102" weight="1.0" />
+      <edge source="Mariano Peña" target="Alejandro VIII" id="103" weight="1.0" />
+      <edge source="Mariano Peña" target="Alessandro Blasetti" id="104" weight="1.0" />
+      <edge source="Mariano Peña" target="Alfonso Peña Boeuf" id="105" weight="1.0" />
+      <edge source="Mariano Peña" target="Tomoka Kuwazoe" id="106" weight="1.0" />
+      <edge source="Mariano Peña" target="Verónica Di Tommasso" id="107" weight="1.0" />
+      <edge source="Juan Pablo II de Ceres" target="A. K. Hangal" id="108" weight="1.0" />
+      <edge source="Juan Pablo II de Ceres" target="Adel al Jubeir" id="109" weight="1.0" />
+      <edge source="Juan Pablo II de Ceres" target="Ahmad Nourollahi" id="110" weight="1.0" />
+      <edge source="Juan Pablo II de Ceres" target="Alejandro Galindo" id="111" weight="1.0" />
+      <edge source="Juan Pablo II de Ceres" target="Alejandro VIII" id="112" weight="1.0" />
+      <edge source="Juan Pablo II de Ceres" target="Alessandro Blasetti" id="113" weight="1.0" />
+      <edge source="Juan Pablo II de Ceres" target="Alfonso Peña Boeuf" id="114" weight="1.0" />
+      <edge source="Juan Pablo II de Ceres" target="Everardo VI de Wurtemberg" id="115" weight="1.0" />
+      <edge source="Juan Pablo II de Ceres" target="Gastón Taylor Producción" id="116" weight="1.5" />
+      <edge source="Juan Pablo II de Ceres" target="Tomoka Kuwazoe" id="117" weight="1.0" />
+      <edge source="Juan Pablo II de Ceres" target="Verónica Di Tommasso" id="118" weight="1.0" />
+      <edge source="Alfonso Peña Boeuf" target="A. K. Hangal" id="119" weight="1.0" />
+      <edge source="Alfonso Peña Boeuf" target="Adel al Jubeir" id="120" weight="1.0" />
+      <edge source="Alfonso Peña Boeuf" target="Ahmad Nourollahi" id="121" weight="1.0" />
+      <edge source="Alfonso Peña Boeuf" target="Alejandro VIII" id="122" weight="1.0" />
+      <edge source="Alfonso Peña Boeuf" target="Alejandro Galindo" id="123" weight="1.0" />
+      <edge source="Alfonso Peña Boeuf" target="Alessandro Blasetti" id="124" weight="1.0" />
+      <edge source="Alfonso Peña Boeuf" target="Everardo VI de Wurtemberg" id="125" weight="1.0" />
+      <edge source="Alfonso Peña Boeuf" target="Gastón Taylor Producción" id="126" weight="1.0" />
+      <edge source="Alfonso Peña Boeuf" target="Tomoka Kuwazoe" id="127" weight="1.0" />
+      <edge source="Alfonso Peña Boeuf" target="Verónica Di Tommasso" id="128" weight="1.0" />
+      <edge source="A. K. Hangal" target="Adel al Jubeir" id="129" weight="1.0" />
+      <edge source="A. K. Hangal" target="Ahmad Nourollahi" id="130" weight="1.0" />
+      <edge source="A. K. Hangal" target="Alejandro Galindo" id="131" weight="1.0" />
+      <edge source="A. K. Hangal" target="Alejandro VIII" id="132" weight="1.0" />
+      <edge source="A. K. Hangal" target="Alessandro Blasetti" id="133" weight="1.0" />
+      <edge source="A. K. Hangal" target="Tomoka Kuwazoe" id="134" weight="1.0" />
+      <edge source="A. K. Hangal" target="Everardo VI de Wurtemberg" id="135" weight="1.0" />
+      <edge source="A. K. Hangal" target="Gastón Taylor Producción" id="136" weight="1.0" />
+      <edge source="A. K. Hangal" target="Verónica Di Tommasso" id="137" weight="1.0" />
+      <edge source="Alejandro Galindo" target="Adel al Jubeir" id="138" weight="1.0" />
+      <edge source="Alejandro Galindo" target="Ahmad Nourollahi" id="139" weight="1.0" />
+      <edge source="Alejandro Galindo" target="Alejandro VIII" id="140" weight="1.0" />
+      <edge source="Alejandro Galindo" target="Alessandro Blasetti" id="141" weight="1.0" />
+      <edge source="Alejandro Galindo" target="Everardo VI de Wurtemberg" id="142" weight="1.0" />
+      <edge source="Alejandro Galindo" target="Gastón Taylor Producción" id="143" weight="1.0" />
+      <edge source="Alejandro Galindo" target="Tomoka Kuwazoe" id="144" weight="1.0" />
+      <edge source="Alejandro Galindo" target="Verónica Di Tommasso" id="145" weight="1.0" />
+      <edge source="Tomoka Kuwazoe" target="Adel al Jubeir" id="146" weight="1.0" />
+      <edge source="Tomoka Kuwazoe" target="Ahmad Nourollahi" id="147" weight="1.0" />
+      <edge source="Tomoka Kuwazoe" target="Everardo VI de Wurtemberg" id="148" weight="1.0" />
+      <edge source="Tomoka Kuwazoe" target="Gastón Taylor Producción" id="149" weight="1.0" />
+      <edge source="Tomoka Kuwazoe" target="Loan Peña" id="150" weight="4.5" />
+      <edge source="Tomoka Kuwazoe" target="Alejandro VIII" id="151" weight="1.0" />
+      <edge source="Tomoka Kuwazoe" target="Alessandro Blasetti" id="152" weight="1.0" />
+      <edge source="Tomoka Kuwazoe" target="Verónica Di Tommasso" id="153" weight="1.0" />
+      <edge source="Loan Peña" target="Everardo VI de Wurtemberg" id="154" weight="4.0" />
+      <edge source="Loan Peña" target="Gastón Taylor Producción" id="155" weight="1.0" />
+      <edge source="Alejandro VIII" target="Adel al Jubeir" id="156" weight="1.0" />
+      <edge source="Alejandro VIII" target="Ahmad Nourollahi" id="157" weight="1.0" />
+      <edge source="Alejandro VIII" target="Alessandro Blasetti" id="158" weight="1.0" />
+      <edge source="Alejandro VIII" target="Everardo VI de Wurtemberg" id="159" weight="1.0" />
+      <edge source="Alejandro VIII" target="Gastón Taylor Producción" id="160" weight="1.0" />
+      <edge source="Alejandro VIII" target="Verónica Di Tommasso" id="161" weight="1.0" />
+      <edge source="Alessandro Blasetti" target="Adel al Jubeir" id="162" weight="1.0" />
+      <edge source="Alessandro Blasetti" target="Ahmad Nourollahi" id="163" weight="1.0" />
+      <edge source="Alessandro Blasetti" target="Everardo VI de Wurtemberg" id="164" weight="1.0" />
+      <edge source="Alessandro Blasetti" target="Gastón Taylor Producción" id="165" weight="1.0" />
+      <edge source="Alessandro Blasetti" target="Verónica Di Tommasso" id="166" weight="1.0" />
+      <edge source="Gastón Taylor Producción" target="Adel al Jubeir" id="167" weight="1.0" />
+      <edge source="Gastón Taylor Producción" target="Ahmad Nourollahi" id="168" weight="1.0" />
+      <edge source="Gastón Taylor Producción" target="Everardo VI de Wurtemberg" id="169" weight="1.0" />
+      <edge source="Gastón Taylor Producción" target="Verónica Di Tommasso" id="170" weight="1.0" />
+      <edge source="Verónica Di Tommasso" target="Adel al Jubeir" id="171" weight="1.0" />
+      <edge source="Verónica Di Tommasso" target="Ahmad Nourollahi" id="172" weight="1.0" />
+      <edge source="Verónica Di Tommasso" target="Everardo VI de Wurtemberg" id="173" weight="1.0" />
+      <edge source="Adel al Jubeir" target="Ahmad Nourollahi" id="174" weight="1.0" />
+      <edge source="Adel al Jubeir" target="Everardo VI de Wurtemberg" id="175" weight="1.0" />
+      <edge source="Everardo VI de Wurtemberg" target="Ahmad Nourollahi" id="176" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
